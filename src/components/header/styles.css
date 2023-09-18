@@ -1,0 +1,18 @@
+.header {
+    max-height: 68px;
+}
+
+.brand-name {
+    color: #1B1F2D;
+    /* font-family: SF Pro Display; */
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.36px;
+}
+
+.brand {
+    display: flex;
+    align-items: center;
+}
