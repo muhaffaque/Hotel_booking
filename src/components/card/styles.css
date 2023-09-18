@@ -1,0 +1,27 @@
+.card-container img {
+    width: 295px;
+    height: 220px;
+    /* flex-shrink: 0; */
+    object-fit: cover;
+}
+
+.card-container h3 {
+    color: #181818;
+    /* font-family: SF Pro Display; */
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin: 0px;
+}
+
+.card-container p {
+    color: #181818;
+    font-family: SF Pro Display;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.28px;
+    margin: 0xp;
+}
